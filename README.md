@@ -41,7 +41,7 @@ SpaceMouse → Inverse Kinematics → Teensy 4.1 → VESCs → SPM
 
 The video below shows the SPM tracking live SpaceMouse input using inverse kinematics.
 
-**[Watch the demo]([YOUR_DEMO_LINK](https://www.linkedin.com/feed/update/urn:li:activity:7463012857752924160/))**
+**[Watch the demo](https://www.linkedin.com/feed/update/urn:li:activity:7463012857752924160/)**
 
 ## Current Status
 
